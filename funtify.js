@@ -12,7 +12,7 @@
 const TELEGRAM_TOKEN = '8484162289:AAHsMAMxppEBYG3naipcfBiIpm0whq3lRBk';
 const ADMIN_ID = 8280809263;
 const SITE_TITLE = 'Funtify';
-const SITE_URL = 'https://your-worker.subdomain.workers.dev'; // Replace with your actual URL
+const SITE_URL = 'https://funtify.theonej942.workers.dev/'; // Replace with your actual URL
 
 export default {
   async fetch(request, env, ctx) {
